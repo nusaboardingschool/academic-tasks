@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style type="text/tailwindcss">
+      @theme {
+        --color-bg: #f5f5dc;
+        --color-darken: #c62828;
+      }
+    </style>
+    <title>Form Pengaduan Social</title>
+  </head>
+  <body class="h-screen bg-bg flex items-center justify-center">
+    <form
+      class="flex w-full max-w-md gap-7 drop-shadow-xl/50 rounded-lg bg-[#FBC02D] mx-4 p-10 flex-col"
+      action="post"
+    >
+      <h1 class="text-4xl text-darken font-bold flex mx-auto justify-center">
+        Aduan Sosial
+      </h1>
+      <div class="flex flex-col gap-y-2">
+        <label for="name" class="font-semibold text-darken">Name</label>
+        <input type="text" id="name" class="border p-2 rounded-lg" />
+      </div>
+      <div class="flex flex-col gap-y-2">
+        <label for="title" class="font-semibold text-darken"
+          >Judul Pengaduan</label
+        >
+        <input type="text" id="title" class="border p-2 rounded-lg" />
+      </div>
+      <div class="flex flex-col gap-y-2">
+        <label for="description" class="font-semibold text-darken"
+          >Deskripsi Pengaduan</label
+        >
+        <textarea
+          type="text"
+          id="description"
+          class="border p-2 rounded-lg"
+        ></textarea>
+      </div>
+      <button class="bg-darken p-3 rounded-lg text-[#F5F5DC]">Kirim</button>
+    </form>
+  </body>
+</html>
