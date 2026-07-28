@@ -4,43 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Document</title>
     <style type="text/tailwindcss">
       @theme {
         --color-bg: #f5f5dc;
         --color-darken: #c62828;
       }
     </style>
-    <title>Form Pengaduan Social</title>
   </head>
-  <body class="h-screen bg-bg flex items-center justify-center">
-    <form
-      class="flex w-full max-w-md gap-7 drop-shadow-xl/50 rounded-lg bg-[#FBC02D] mx-4 p-10 flex-col"
-      action="post"
-    >
-      <h1 class="text-4xl text-darken font-bold flex mx-auto justify-center">
-        Aduan Sosial
-      </h1>
-      <div class="flex flex-col gap-y-2">
-        <label for="name" class="font-semibold text-darken">Name</label>
-        <input type="text" id="name" class="border p-2 rounded-lg" />
-      </div>
-      <div class="flex flex-col gap-y-2">
-        <label for="title" class="font-semibold text-darken"
-          >Judul Pengaduan</label
-        >
-        <input type="text" id="title" class="border p-2 rounded-lg" />
-      </div>
-      <div class="flex flex-col gap-y-2">
-        <label for="description" class="font-semibold text-darken"
-          >Deskripsi Pengaduan</label
-        >
-        <textarea
-          type="text"
-          id="description"
-          class="border p-2 rounded-lg"
-        ></textarea>
-      </div>
-      <button class="bg-darken p-3 rounded-lg text-[#F5F5DC]">Kirim</button>
-    </form>
+  <body class="min-h-screen  bg-bg flex justify-center items-center">
+    <main class="w-full flex flex-col gap-y-5 max-w-md bg-blue-300 p-5 rounded-lg">
+      <h1 class="flex justify-center text-2xl font-bold">Link Tugasz</h1>
+      <section class="bg-red-300 p-3 flex justify-center  rounded">
+        <a class="font-semibold" href="/form-social/">Form Social</a>
+      </section>
+      <section class="bg-red-300 p-3 flex justify-center  rounded">
+        <a class="font-semibold" href="/form-social/">Tugas 2</a>
+      </section>
+    </main>
   </body>
 </html>
