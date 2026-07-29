@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Coffee Menu</title>
+    <style type="text/tailwindcss">
+      @theme {
+        --color-bg: #e4d6a9;
+        --color-darken: #622b14;
+        --font-sour-gummy: "Sour Gummy", sans-serif;
+      }
+    </style>
+  </head>
+  <body
+    class="flex font-sour-gummy justify-center min-h-screen items-center bg-[url(https://images.unsplash.com/photo-1551610290-e153ec567dd8?q=80&w=963&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-auto"
+  >
+    <main class="bg-bg w-full rounded-lg p-3 max-w-md">
+      <section class="flex gap-y-3 p-3 flex-col">
+        <article class="p-3">
+          <h2 class="font-bold  text-2xl flex justify-center">
+            Coffee Menu
+          </h2>
+          <img
+            class="flex items-center w-full justify-center size-8 mt-3"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTExLjI1IDE3LjIzcS0yLjU3OSAwLTQuNDE0LTEuNzI5UTUgMTMuNzcxIDUgMTEuMjMxVjRoMTMuMjVxMS4xNDIgMCAxLjk0Ni43NjZRMjEgNS41MyAyMSA2LjY1NHEwIDEuMTgtLjc5NCAyLjAxM1QxOC4yNSA5LjVoLS45NDJ2MS43M3EwIDIuNTAzLTEuNzY5IDQuMjUyVDExLjI1IDE3LjIzTTYgOC41aDEwLjMwOFY1SDZ6bTExLjMwOCAwaC45NDJxLjc0IDAgMS4yNDUtLjU0M1QyMCA2LjY1NHEwLS43MDItLjUyNC0xLjE3OFQxOC4yNSA1aC0uOTQyek01IDIwdi0xaDE0djF6IiAvPgo8L3N2Zz4K"
+            alt=""
+          />
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+      </section>
+
+      <section class="flex gap-y-3 p-3 flex-col">
+        <article class="p-3">
+          <h2 class="font-bold text-2xl flex justify-center">Dessert Menu</h2>
+          <img
+            class="flex fill-darken stroke-darken items-center w-full justify-center size-8 mt-3"
+            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij4KCTxwYXRoIGQ9Ik0wIDBoMTAyNHYxMDI0SDB6IiBmaWxsPSJub25lIiAvPgoJPHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMTI4IDQxNnYtNDhhMTQ0IDE0NCAwIDAgMSAxNjguNi0xNDEuOWEyMjQuMSAyMjQuMSAwIDAgMSA0MzAuOCAwQTE0NCAxNDQgMCAwIDEgODk2IDM2OHY0OGEzODQgMzg0IDAgMCAxLTM1MiAzODIuN1Y4OTZoLTY0di05Ny4zQTM4NCAzODQgMCAwIDEgMTI4IDQxNm0yODcuMS0zMmgxOTMuOGExNDQgMTQ0IDAgMCAxIDU4LjktMTMyLjhhMTYwIDE2MCAwIDAgMC0zMTEuNiAwQTE0NCAxNDQgMCAwIDEgNDE1LjEgMzg0bS03Mi45IDBhNzIgNzIgMCAxIDAtMTQwLjUgMHptMzM5LjYgMGgxNDAuNGE3MiA3MiAwIDEgMC0xNDAuNSAwek01MTIgNzM2YTMyMCAzMjAgMCAwIDAgMzE4LjQtMjg4SDE5My42QTMyMCAzMjAgMCAwIDAgNTEyIDczNk0zODQgODk2aDI1NmEzMiAzMiAwIDEgMSAwIDY0SDM4NGEzMiAzMiAwIDEgMSAwLTY0IiAvPgo8L3N2Zz4K"
+            alt=""
+          />
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+        <article class="flex px-3 justify-between">
+          <p>Coffe Ori</p>
+          <p>Rp. 30.000</p>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
