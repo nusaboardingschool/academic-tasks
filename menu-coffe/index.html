@@ -18,21 +18,32 @@
         --font-sour-gummy: "Sour Gummy", sans-serif;
       }
     </style>
+    <style>
+      .tes {
+        background-image: url("https://images.unsplash.com/photo-1551610290-e153ec567dd8?q=80&w=963&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+      }
+    </style>
   </head>
   <body
-    class="flex font-sour-gummy justify-center min-h-screen items-center bg-[url(https://images.unsplash.com/photo-1551610290-e153ec567dd8?q=80&w=963&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)] bg-auto"
+    class="flex text-darken font-sour-gummy justify-center h-screen items-center tes bg-auto"
   >
     <main class="bg-bg w-full rounded-lg p-3 max-w-md">
       <section class="flex gap-y-3 p-3 flex-col">
         <article class="p-3">
-          <h2 class="font-bold  text-2xl flex justify-center">
-            Coffee Menu
-          </h2>
-          <img
+          <h2 class="font-bold text-2xl flex justify-center">Coffee Menu</h2>
+          <svg
             class="flex items-center w-full justify-center size-8 mt-3"
-            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTExLjI1IDE3LjIzcS0yLjU3OSAwLTQuNDE0LTEuNzI5UTUgMTMuNzcxIDUgMTEuMjMxVjRoMTMuMjVxMS4xNDIgMCAxLjk0Ni43NjZRMjEgNS41MyAyMSA2LjY1NHEwIDEuMTgtLjc5NCAyLjAxM1QxOC4yNSA5LjVoLS45NDJ2MS43M3EwIDIuNTAzLTEuNzY5IDQuMjUyVDExLjI1IDE3LjIzTTYgOC41aDEwLjMwOFY1SDZ6bTExLjMwOCAwaC45NDJxLjc0IDAgMS4yNDUtLjU0M1QyMCA2LjY1NHEwLS43MDItLjUyNC0xLjE3OFQxOC4yNSA1aC0uOTQyek01IDIwdi0xaDE0djF6IiAvPgo8L3N2Zz4K"
-            alt=""
-          />
+            xmlns="http://www.w3.org/2000/svg"
+            width="1em"
+            height="1em"
+            viewBox="0 0 24 24"
+          >
+            <path d="M0 0h24v24H0z" fill="none" />
+            <path
+              fill="currentColor"
+              d="M11.25 17.23q-2.579 0-4.414-1.729Q5 13.771 5 11.231V4h13.25q1.142 0 1.946.766Q21 5.53 21 6.654q0 1.18-.794 2.013T18.25 9.5h-.942v1.73q0 2.503-1.769 4.252T11.25 17.23M6 8.5h10.308V5H6zm11.308 0h.942q.74 0 1.245-.543T20 6.654q0-.702-.524-1.178T18.25 5h-.942zM5 20v-1h14v1z"
+            />
+          </svg>
         </article>
         <article class="flex px-3 justify-between">
           <p>Coffe Ori</p>
@@ -55,11 +66,19 @@
       <section class="flex gap-y-3 p-3 flex-col">
         <article class="p-3">
           <h2 class="font-bold text-2xl flex justify-center">Dessert Menu</h2>
-          <img
+          <svg
             class="flex fill-darken stroke-darken items-center w-full justify-center size-8 mt-3"
-            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij4KCTxwYXRoIGQ9Ik0wIDBoMTAyNHYxMDI0SDB6IiBmaWxsPSJub25lIiAvPgoJPHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMTI4IDQxNnYtNDhhMTQ0IDE0NCAwIDAgMSAxNjguNi0xNDEuOWEyMjQuMSAyMjQuMSAwIDAgMSA0MzAuOCAwQTE0NCAxNDQgMCAwIDEgODk2IDM2OHY0OGEzODQgMzg0IDAgMCAxLTM1MiAzODIuN1Y4OTZoLTY0di05Ny4zQTM4NCAzODQgMCAwIDEgMTI4IDQxNm0yODcuMS0zMmgxOTMuOGExNDQgMTQ0IDAgMCAxIDU4LjktMTMyLjhhMTYwIDE2MCAwIDAgMC0zMTEuNiAwQTE0NCAxNDQgMCAwIDEgNDE1LjEgMzg0bS03Mi45IDBhNzIgNzIgMCAxIDAtMTQwLjUgMHptMzM5LjYgMGgxNDAuNGE3MiA3MiAwIDEgMC0xNDAuNSAwek01MTIgNzM2YTMyMCAzMjAgMCAwIDAgMzE4LjQtMjg4SDE5My42QTMyMCAzMjAgMCAwIDAgNTEyIDczNk0zODQgODk2aDI1NmEzMiAzMiAwIDEgMSAwIDY0SDM4NGEzMiAzMiAwIDEgMSAwLTY0IiAvPgo8L3N2Zz4K"
-            alt=""
-          />
+            xmlns="http://www.w3.org/2000/svg"
+            width="1em"
+            height="1em"
+            viewBox="0 0 1024 1024"
+          >
+            <path d="M0 0h1024v1024H0z" fill="none" />
+            <path
+              fill="currentColor"
+              d="M128 416v-48a144 144 0 0 1 168.6-141.9a224.1 224.1 0 0 1 430.8 0A144 144 0 0 1 896 368v48a384 384 0 0 1-352 382.7V896h-64v-97.3A384 384 0 0 1 128 416m287.1-32h193.8a144 144 0 0 1 58.9-132.8a160 160 0 0 0-311.6 0A144 144 0 0 1 415.1 384m-72.9 0a72 72 0 1 0-140.5 0zm339.6 0h140.4a72 72 0 1 0-140.5 0zM512 736a320 320 0 0 0 318.4-288H193.6A320 320 0 0 0 512 736M384 896h256a32 32 0 1 1 0 64H384a32 32 0 1 1 0-64"
+            />
+          </svg>
         </article>
         <article class="flex px-3 justify-between">
           <p>Coffe Ori</p>
@@ -78,6 +97,19 @@
           <p>Rp. 30.000</p>
         </article>
       </section>
+
+      <p
+        class="p-2 flex mx-auto items-center flex-wrap flex-wrap justify-center"
+      >
+        Background Image by Patryk Gauza from
+
+        <a
+          class="ml-1 underline font-semibold"
+          href="https://unsplash.com/photos/brown-coffee-beans-lot-vs0tzSHVcac"
+        >
+          unsplash</a
+        >
+      </p>
     </main>
   </body>
 </html>
