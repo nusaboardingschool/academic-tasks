@@ -8,7 +8,7 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar HTML & CSS mi
 
 | Nama | Lihat Website |
 |------|---------------|
-| Aditama Putra Prabaswara | [Kunjungi Website →]() |
+| Aditama Putra Prabaswara | [Kunjungi Website →](https://dityaaaf.github.io/tugashtml/) |
 | Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Tugas-apalah-itu/) |
 | Muhammad Ramadhan Rayyan | [Kunjungi Website →]() |
 | Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/latihan-HTML-/) |
@@ -26,6 +26,20 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar HTML & CSS mi
 | Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/latihan-HTML-/form-sosial/) |
 | Zaidan Abdurrahman | [Kunjungi Website →](https://zidan836.github.io/praktek-form/form-sosial/) |
 | Zidane Fakhri Ramadhan | [Kunjungi Website →](https://zidanefakhri.github.io/Pengaduan-Sosial/form-sosial.html) |
+
+
+
+
+## Web Menu Kopi
+
+| Nama | Lihat Website |
+|------|---------------|
+| Aditama Putra Prabaswara | [Kunjungi Website →](https://dityaaaf.github.io/tugashtml/kopi-saya/) |
+| Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Tugas-apalah-itu/) |
+| Muhammad Ramadhan Rayyan | [Kunjungi Website →]() |
+| Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/latihan-HTML-/COFANA/) |
+| Zaidan Abdurrahman | [Kunjungi Website →](https://zidan836.github.io/praktek-form/menu-coffe/) |
+| Zidane Fakhri Ramadhan | [Kunjungi Website →](https://zidanefakhri.github.io/Pengaduan-Sosial/coffee-menu/) |
 
 
 
