@@ -42,6 +42,18 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar HTML & CSS mi
 | Zidane Fakhri Ramadhan | [Kunjungi Website →](https://zidanefakhri.github.io/Pengaduan-Sosial/coffee-menu/) |
 
 
+## Web Resep Makanan
+
+| Nama | Lihat Website |
+|------|---------------|
+| Aditama Putra Prabaswara | [Kunjungi Website →](https://dityaaaf.github.io/tugashtml/resep-saya/) |
+| Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Tugas-apalah-itu/Resep-makanan/) |
+| Muhammad Ramadhan Rayyan | [Kunjungi Website →]() |
+| Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/latihan-HTML-/Resep-makanan/) |
+| Zaidan Abdurrahman | [Kunjungi Website →](https://zidan836.github.io/praktek-form/resep-makanan/) |
+| Zidane Fakhri Ramadhan | [Kunjungi Website →]() |
+
+
 
 ---
 
