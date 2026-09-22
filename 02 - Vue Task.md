@@ -13,4 +13,15 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar Vue minggu in
 | Zaidan Abdurrahman | [Kunjungi Website →](https://zidan836.github.io/Konvarsi-Mata-Uang/) |
 ---
 
+## Website Bantu Sosial
+
+| Nama | Lihat Website |
+|------|---------------|
+| Aditama Putra Prabaswara | [Kunjungi Website →]() |
+| Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Jadwal-Adzan-Semarang/) |
+| Muhammad Ramadhan Rayyan | [Kunjungi Website →](https://islamic-digital-hub.netlify.app/) |
+| Muhammad Fachri Maulana | [Kunjungi Website →](bskbonten.github.io/socialsehat/) |
+| Zaidan Abdurrahman | [Kunjungi Website →](https://bantu-kitaa.vercel.app/) |
+---
+
 *Website ini adalah bagian dari proses belajar, jadi kalau ada tampilan yang masih sederhana atau kurang rapi, itu hal yang wajar. Terima kasih atas dukungannya!*
