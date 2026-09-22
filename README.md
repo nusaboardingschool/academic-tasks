@@ -7,6 +7,7 @@ Halo Semuaa!!, berikut adalah kumpulan tugas-tugas siswa. Tiap file `.md` berisi
 | File | Materi |
 |------|--------|
 | [01 - HTML & CSS Tasks.md](./01%20-%20HTML%20CSS%20Task.md) | HTML & CSS |
+| [02 - Vue Tasks.md](./02%20-%20Vue%20Task.md) | Vue |
 
 ---
 Terima kasih 🙏
