@@ -37,6 +37,7 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar HTML & CSS mi
 | Nama | Lihat Website |
 |------|---------------|
 | Aditama Putra Prabaswara | [Kunjungi Website →](https://dityaaaf.github.io/tugashtml/kopi-saya/) |
+| Fahri Iman Brilianto | [Kunjungi Website →](https://imannnnn112.github.io/porto-nusa/daftarr-makanan/) |
 | Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Tugas-apalah-itu/Poster-menu/) |
 | Muhammad Ramadhan Rayyan | [Kunjungi Website →](https://ramadhanrayyan.github.io/ujian1/menu-kopi/index.html) |
 | Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/latihan-HTML-/COFANA/) |
