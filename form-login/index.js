@@ -1,22 +1,12 @@
-/// '' => String
-console.log("halo rama");
+const nilai = "c";
 
-// Object
-let orang = {
-  nama: "Alam",
-  umur: 41,
-  domisili: "Geneng",
-};
-
-// Array
-let apapun = ['string', false, 80, undefined, null]
-
-function sapa(){
-    console.log('Halo Iman')
+switch (nilai) {
+  case "a":
+    console.log("Lulus");
+    break;
+  case "b":
+    console.log("lulus tp b aja");
+    break;
+  default:
+    console.log("ulang lagi");
 }
-
-
-//ini blm selesai
-sapa()
-sapa()
-sapa()
