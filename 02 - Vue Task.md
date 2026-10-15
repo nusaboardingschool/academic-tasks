@@ -24,4 +24,24 @@ Di bawah ini kumpulan website hasil karya anak-anak selama belajar Vue minggu in
 | Zaidan Abdurrahman | [Kunjungi Website →](https://bantu-kitaa.vercel.app/) |
 ---
 
+## Website Sederhana
+| Nama | Lihat Website |
+|------|---------------|
+| Aditama Putra Prabaswara | [Kunjungi Website →](https://dityaaaf.github.io/ngevueyuk/) |
+| Ibrahim Abdullah Giyant | [Kunjungi Website →](https://mango67-syabu.github.io/Pancku-landing-page/) |
+| Muhammad Ramadhan Rayyan | [Kunjungi Website →](https://islamic-digital-hub.netlify.app/) |
+| Muhammad Fachri Maulana | [Kunjungi Website →](https://bskbonten.github.io/COFANA-PROTOTYPE/#/) |
+| Zaidan Abdurrahman | [Kunjungi Website →](https://zidan836.github.io/pohon-kebaikan/) |
+
+## Game Sederhana
+| Nama | Lihat Website |
+|------|---------------|
+| Aditama Putra Prabaswara | [Kunjungi Website →]() |
+| Fahri Iman Brilianto | [Kunjungi Website →]() |
+| Ibrahim Abdullah Giyant | [Kunjungi Website →]() |
+| Muhammad Ramadhan Rayyan | [Kunjungi Website →]() |
+| Muhammad Fachri Maulana | [Kunjungi Website →]() |
+| Zaidan Abdurrahman | [Kunjungi Website →]() |
+| Zidane Fakhri Ramadhan | [Kunjungi Website →]() |
+
 *Website ini adalah bagian dari proses belajar, jadi kalau ada tampilan yang masih sederhana atau kurang rapi, itu hal yang wajar. Terima kasih atas dukungannya!*
